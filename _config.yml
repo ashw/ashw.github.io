@@ -14,7 +14,7 @@ baseurl: ""
 username: Ashley Watkins
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Data Science
+typing_text: Analysis and Modelling
 # email: Your E-Mail address for the email button.
 email: dsgithub@awatkins.me.uk
 # For every social button you want to display, set your username or userid
