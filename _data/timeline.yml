@@ -17,45 +17,41 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Keswick School
+  title-url: http://www.keswick.cumbria.sch.uk
+  date: 2011 - Present
+  subtitle: Teacher of Mathematics
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Communication
+    - tag: Data Processing
+    - tag: Analysis
+    - tag: Organisation
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+- title: Stainburn School
+  title-url: https://reports.ofsted.gov.uk/provider/23/112395
+  date: 2010 - 2011
+  subtitle: Newly Qualified Teacher of Mathematics
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Edge Hill University
+  title-url: https://www.edgehill.ac.uk/
+  date: 2007 - 2010
+  subtitle: BSc (Hons) Secondary Mathematics, [1]
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Beaver Sports (Yorks) Ltd.
+  title-url: https://www.beaversports.co.uk/
+  date: 2004 - 2006
+  subtitle: Accounts and IT Manager
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Network Admin
+    - tag: Database Admin
+    - tag: Product Development
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: University of Huddersfield
+  title-url: https://www.hud.ac.uk
+  date: 2002 - 2003
+  subtitle: Research Assistant - Sybil Project
   timeline-side: left
