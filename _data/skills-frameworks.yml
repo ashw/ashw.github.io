@@ -5,8 +5,14 @@
 # - name: Framework
 #   weight: 5
 
-- name: Anaconda
+- name: Pandas
+  weight: 4
+ 
+- name: sklearn
   weight: 4
 
-- name: Wolfram Mathematica
-  weight: 4
+- name: keras
+  weight: 2
+  
+- name: matplotlib
+  weight: 3
